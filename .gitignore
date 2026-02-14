@@ -1,0 +1,13 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
